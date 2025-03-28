@@ -7,7 +7,7 @@
 
 ### Ejecutar el Servidor
 1. Abrir una terminal o consola.
-2. Navegar al directorio donde se encuentra `server.py`.
+2. Entrar al directorio donde se encuentra `server.py`.
 3. Ejecutar el siguiente comando:
     ```bash
     python server.py
@@ -23,6 +23,7 @@
     ```
 4. Ingresar mensajes para enviarlos al servidor.
 
+![Ejecucion](images/prueba3.png)
 ---
 
 # Pruebas Manuales
