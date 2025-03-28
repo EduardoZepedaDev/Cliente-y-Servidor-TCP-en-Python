@@ -36,6 +36,8 @@
 2. Ejecutar `client.py` para iniciar el cliente.
 3. Ingresar un mensaje de texto normal (por ejemplo: `hola servidor`).
 4. Verificar que el cliente muestre la respuesta del servidor en mayúsculas (por ejemplo: `HOLA SERVIDOR`).
+![Prueba 1](images/prueba1.png)
+
 
 **Resultado Esperado:** El servidor responde con el mismo mensaje en mayúsculas.
 
@@ -51,6 +53,7 @@
 3. Ingresar el mensaje `DESCONEXION`.
 4. Verificar que el cliente muestre el mensaje de desconexión y cierre la conexión.
 5. Verificar que el servidor muestre un mensaje indicando que el cliente se ha desconectado.
+![Prueba 2](images/prueba2.png)
 
 **Resultado Esperado:** La conexión se cierra correctamente en ambos lados.
 
